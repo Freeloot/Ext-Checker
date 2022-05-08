@@ -12,7 +12,7 @@ $ git clone https://github.com/Freeloot/Path-Checker
 $ cd Path-Checker-main/
 ```
 
-2. **EXECUTION**
+2. **EXECUTE**
 
 - Run the binary.
 ```
