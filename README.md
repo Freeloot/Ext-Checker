@@ -9,7 +9,7 @@ Path Checker is a CLI based script that outputs the extension of a specified fil
 - Clone the repository.
 ```
 $ git clone https://github.com/Freeloot/Path-Checker
-$ cd Path-Checker-main/
+$ cd Path-Checker/
 ```
 
 2. **EXECUTE**
