@@ -17,5 +17,6 @@ $ cd Ext-Checker/
 - Run the binary.
 ```
 $  ext files.zip
+
 Output: .zip
 ```
