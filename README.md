@@ -3,7 +3,7 @@ Extension Checker is a CLI based script that outputs the extension of a specifie
 
 ## How does it work?
 
-- Ext Checker uses Python to retrieve file extensions.
+- Ext Checker uses Python's pathlib to retrieve file extensions.
 
 1. **DOWNLOAD**
 - Clone the repository.
